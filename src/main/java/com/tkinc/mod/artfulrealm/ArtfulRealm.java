@@ -22,7 +22,7 @@ import java.util.stream.Collectors;
 @Mod("ArtfulRealm")
 public class ArtfulRealm {
 
-    public static final String MOD_ID = "artfulrealm";
+    public static final String MOD_ID = "artful-realm";
 
     // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
